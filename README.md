@@ -5,6 +5,7 @@ For details about the augmented neural ode network and Lyapunov loss, please ref
 https://github.com/ivandariojr/LyapunovLearning/tree/master
 
 https://github.com/EmilienDupont/augmented-neural-odes/tree/master
+
 Regarding the construction of the dataset in this article, please refer to:
 https://github.com/XiheQiu/Gram-AODE
 
